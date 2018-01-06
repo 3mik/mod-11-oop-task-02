@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: #4ca1da;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+}
+
+button:hover {
+  color: #4ca1da;
+  background-color: white;
+  border: 1px solid #4ca1da;
+}
+/*# sourceMappingURL=style.css.map */
